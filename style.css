@@ -2435,7 +2435,7 @@ button.send_btn:hover {
     color: #1a1b4b;
 }
 .home_3 .widget_schedule span {
-    color: #1a1b4b;
+    color: #f7a400;
 }
 /*-----------------------
  * FOOTER BOTTOM AREA CSS
@@ -3568,3 +3568,6 @@ select:focus {
   color:#f7a500b9;
 }
 
+.pricing_2{
+    margin-top: 40px;
+}
