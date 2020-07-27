@@ -1,8 +1,4 @@
-/*
-====================
-	Template Name: Bravado
-	Author: EM40
-===============================*/
+
 	/*  CSS INDEX
 	=====================
 	* HEADER AREA CSS 
@@ -109,7 +105,7 @@ a {
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
     text-decoration: none;
-    color: #878787;
+    color: #f7a400;
     /* font-family: 'Roboto', sans-serif; */
 }
 a:hover {
@@ -141,7 +137,7 @@ ul > li > a {
     color: #f7a500b9;
 }
 .home_2 .section_title h2 span {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_3 .section_title h2 span {
     color: #1a1b4b;
@@ -288,16 +284,16 @@ ul > li > a {
     padding: 10px 0;
 }
 .header_area2 .menu > ul > li > a:before {
-    background: #FF5E00;
+    background: #f7a400;
 }
 .header_area2 .menu > ul > li > a:hover {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .header_area2 .menu > ul > li.active > a {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .header_area2 .logo a span {
-    color: #FF5E00;
+    color: #f7a400;
     font-size: 35px;
 }
 /*----------------------
@@ -445,7 +441,7 @@ ul > li > a {
     vertical-align: top;
 }
 .cap-title h3 span strong {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home-2 .cap-title h3 span strong {
     color: #ffab31;
@@ -497,7 +493,7 @@ i.nivo-next-icon {
 }
 i.nivo-prev-icon:hover,
 i.nivo-next-icon:hover {
-    border-color:#ff5e00;
+    border-color:#f7a400;
     color: #fff;
 	background:rgba(255, 94, 0,1);
 }
@@ -524,7 +520,7 @@ i.nivo-prev-icon {} i.nivo-next-icon {} .slider:hover i.nivo-prev-icon,
     width: 14px;
 }
 .nivo-controlNav a {
-    background-color: #ff5e00;
+    background-color: #f7a400;
     border: 2px solid transparent;
     border-radius: 100%;
     cursor: pointer;
@@ -572,13 +568,13 @@ i.nivo-prev-icon {} i.nivo-next-icon {} .slider:hover i.nivo-prev-icon,
 	transition: all 1s ease 0s;
 }
 a.actice-button {
-    background: #FF5E00;
-    border-color: #FF5E00;
+    background: #f7a400;
+    border-color: #f7a400;
 }
 .smore a:hover {
     color: #fff;
-    background: #ff5e00;
-    border-color: #ff5e00;
+    background: #f7a400;
+    border-color: #f7a400;
 }
 a.actice-button:hover {
     background: transparent;
@@ -631,11 +627,11 @@ a.actice-button:hover {
 	top: 38px;
 	width: 55px;
 	height: 2px;
-	background: #ff5e00;
+	background: #f7a400;
 }
 .story-title h2 span {
     font-weight: 700;
-    color: #ff5e00;
+    color: #f7a400;
 }
 .about-story h4 {
     font-size: 20px;
@@ -807,16 +803,16 @@ margin-top:20px;
     box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .1);
 }
 .home_2 .feature_icon i {
-    border: 1px solid #FF5E00;
-    color: #FF5E00;
+    border: 1px solid #f7a400;
+    color: #f7a400;
 }
 .home_2 .single_feature:hover .feature_icon i {
-    background: #FF5E00;
-    border-color: #FF5E00;
+    background: #f7a400;
+    border-color: #f7a400;
     color: #fff;
 }
 .home_2 .feature_text h3 a:hover {
-    color: #FF5E00;
+    color: #f7a400;
 }
 /*-------------------------
  * FEATURE  AREA CSS HOME-3
@@ -881,13 +877,13 @@ margin-top:20px;
  ----------------------------*/
 
 .home_2 .read_more_btn a {
-    border: 1px solid #FF5E00;
-    color: #FF5E00;
+    border: 1px solid #f7a400;
+    color: #f7a400;
 }
 .home_2 .read_more_btn a:hover {
-    background: #FF5E00;
+    background: #f7a400;
     color: #fff;
-    border-color: #FF5E00;
+    border-color: #f7a400;
 }
 /*---------------------------
  * READ MORE BUTTON CSS HOME-3
@@ -947,15 +943,15 @@ margin-top:20px;
  ----------------------------*/
 
 .home_2 .portfolio_nav ul li:hover {
-    border-color: #FF5E00;
-    background: #FF5E00;
+    border-color: #f7a400;
+    background: #f7a400;
     color: #fff;
 }
 .home_2 .portfolio_nav ul li.current_menu_item,
 .home_2 .portfolio_nav ul li:hover {
     color: #fff;
-    border-color: #FF5E00;
-    background: #FF5E00;
+    border-color: #f7a400;
+    background: #f7a400;
 }
 /*---------------------------
  * PORTFOLIO NAV CSS HOME-2
@@ -1068,7 +1064,7 @@ margin-top:20px;
     background: rgba(255, 94, 0, .8);
 }
 .home_2 .portfolio_icon a:hover {
-    color: #FF5E00;
+    color: #f7a400;
 }
 /*---------------------------
  * PORTFOLIO AREA CSS HOME-3
@@ -1161,7 +1157,7 @@ margin-top:20px;
     color: #fff;
 }
 .course_price {} .course_price span {
-    color: #333;
+    color: #f7a400;
     font-size: 20px;
     font-weight: 700;
     margin: 0;
@@ -1174,19 +1170,19 @@ margin-top:20px;
     box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .1);
 }
 .home_2 .coourse_content a:hover {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_2 .coourse_content .review-area span {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_2 .coourse_content ul li {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_2 .read_more_btn.course a:hover {
     color: #fff;
 }
 .home_2 .read_more_btn .active {
-	background: #FF5E00;
+	background: #f7a400;
 	color: #fff;
 }
 /*----------------------
@@ -1273,8 +1269,8 @@ margin-top:20px;
  ------------------------*/
 
 .home_2 .counter-icon i {
-    border: 2px solid #FF5E00;
-    color: #FF5E00;
+    border: 2px solid #f7a400;
+    color: #f7a400;
 }
 /*-----------------------
  * COUNTER AREA CSS HOME-2
@@ -1397,14 +1393,14 @@ margin-top:20px;
  ---------------------*/
 
 .home_2 .single-team:before {
-    background: #FF5E00;
+    background: #f7a400;
 }
 .home_2 .team-icon a {
-    background: #FF5E00 none repeat scroll 0 0;
+    background: #f7a400 none repeat scroll 0 0;
 }
 .home_2 .team-icon a:hover {
     background: #fff;
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_2 .team-icon {
     background: rgba(255, 94, 0, 0.5) none repeat scroll 0 0;
@@ -1412,7 +1408,7 @@ margin-top:20px;
     width: 100%;
 }
 .home_2 .team-content span {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_2 .single-team:hover .team-icon {
     bottom: 0px;
@@ -1636,16 +1632,16 @@ margin-top:20px;
  ------------------------*/
 
 .home_2 .pricing_title {
-    border-top: 1px solid #FF5E00;
+    border-top: 1px solid #f7a400;
 }
 .home_2 .active .pricing_title {
     border-top: 1px solid #4f4f4f;
 }
 .home_2 .price {
-    background: #FF5E00 none repeat scroll 0 0;
+    background: #f7a400 none repeat scroll 0 0;
 }
 .home_2 .order_now {
-    background: #FF5E00 none repeat scroll 0 0;
+    background: #f7a400 none repeat scroll 0 0;
 }
 .home_2 .active .price {
     background: #4f4f4f none repeat scroll 0 0;
@@ -1734,7 +1730,7 @@ margin-top:20px;
  -----------------------------*/
 
 .home_2 .test_name h4 sup {
-    color: #FF5E00;
+    color: #f7a400;
 }
 /*-----------------------------
  * TESTIMONIAL  AREA CSS HOME-2
@@ -1920,32 +1916,32 @@ text-align:left;
  ----------------------*/
 
 .home_2 .blog-meta-left .date {
-    background: #FF5E00 none repeat scroll 0 0;
+    background: #f7a400 none repeat scroll 0 0;
 }
 .home_2 .blog-meta-left a i {
-    color: #FF5E00;
+    color: #f7a400;
     margin-right: 2px;
 }
 .home_2 .blog-meta-right a i {
     margin-right: 5px;
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_2 .blog-content h2 a:hover {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_2 .blog.read_more_btn a {
-  border: 1px solid #ff5e00;
-  color:#ff5e00;
+  border: 1px solid #f7a400;
+  color:#f7a400;
 
 }
 .home_2 .blog.read_more_btn a:hover {
-    background:#ff5e00;
+    background:#f7a400;
     color: #fff;
-    border-color: #ff5e00;
+    border-color: #f7a400;
 }
 .home_2 .blog-meta-left a:hover,
 .home_2 .blog-meta-right a:hover {
-	color:#ff5e00;
+	color:#f7a400;
 }
 /*---------------------
  * BLOG  AREA CSS HOME-3
@@ -2076,15 +2072,15 @@ button.send_btn:hover {
 }
 .home_2 .input_box input:focus,
 .home_2 .input_box textarea:focus {
-    border-color: #ff5e00;
+    border-color: #f7a400;
 }
 .home_2 .send_btn {
-    border: 2px solid #ff5e00;
-    color: #FF5E00;
+    border: 2px solid #f7a400;
+    color: #f7a400;
 }
 .home_2 button.send_btn:hover {
-    background: #FF5E00;
-    border-color: #FF5E00;
+    background: #f7a400;
+    border-color: #f7a400;
     color: #fff;
 }
 /*------------------------
@@ -2312,7 +2308,7 @@ button.send_btn:hover {
  ----------------------------*/
 
 .widget_schedule {} .widget_schedule ul {} .widget_schedule ul li {
-    border-bottom: 1px solid #878787;
+    border-bottom: 1px solid #f7a400;
     color: #fff;
     display: block;
     margin-bottom: 16px;
@@ -2320,7 +2316,7 @@ button.send_btn:hover {
 }
 .widget_schedule ul li:last-child {
     margin-bottom: 0;
-    border-bottom: 0px solid #878787;
+    border-bottom: 0px solid #f7a400;
 }
 .widget_schedule span {
     float: right;
@@ -2355,7 +2351,7 @@ button.send_btn:hover {
     width: 99%;
 }
 .button_style {
-    background: #FF5E00;
+    background: #f7a400;
     border: 0 none;
     border-radius: 0 5px 5px 0;
     color: #fff;
@@ -2374,7 +2370,7 @@ button.send_btn:hover {
     background: #f7a500b9;
 }
 .home_2 .button_style {
-    background: #FF5E00;
+    background: #f7a400;
 }
 .default-blog .button_style {
     background: #f7a500b9 none repeat scroll 0 0;
@@ -2384,29 +2380,29 @@ button.send_btn:hover {
  ---------------------------*/
 
 .home_2 .footer_wid_title h2:before {
-    background: #FF5E00 none repeat scroll 0 0;
+    background: #f7a400 none repeat scroll 0 0;
 }
 .home_2 .widget_icon ul li a:hover {
-    background: #FF5E00;
-    border-color: #FF5E00;
+    background: #f7a400;
+    border-color: #f7a400;
 }
 .home_2 .widget_link i {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_2 .widget_link ul li a:hover {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_2 .pst_thumb:before {
     background: rgba(255, 94, 0, 0.5);
 }
 .home_2 .pst_text a:hover {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_2 .signup_newsletter span {
-    color: #FF5E00;
+    color: #f7a400;
 }
 .home_2 .widget_schedule span {
-    color: #FF5E00;
+    color: #f7a400;
 }
 /*---------------------------
  * FOOTER TOP AREA CSS HOME-3
@@ -2442,7 +2438,7 @@ button.send_btn:hover {
  ------------------------*/
 
 .footer-bottom-area {
-    background: #191919 none repeat scroll 0 0;
+    background: #1a1b4b none repeat scroll 0 0;
     padding: 30px 0 30px;
 }
 .container.bgfooter {
@@ -2463,7 +2459,7 @@ button.send_btn:hover {
  -----------------------------*/
 
 .home_2 .coppyright p span {
-    color: #FF5E00;
+    color: #f7a400;
 }
 /*-----------------------------
  * FOOTER BOTTOM AREA CSS HOME-3
@@ -2556,13 +2552,13 @@ button.send_btn:hover {
 }
 .information_list {} .information_list > ul {} .information_list li {
     border-bottom: 1px solid #ddd;
-    color: #878787;
+    color: #f7a400;
     padding: 12px 0;
     text-transform: uppercase;
     font-size: 13px;
 }
 .information_list span {
-    color: #878787;
+    color: #f7a400;
     float: right;
 }
 .about_teacher {
@@ -2601,7 +2597,7 @@ button.send_btn:hover {
     padding-top: 0;
 }
 .category_list span {
-    color: #878787;
+    color: #f7a400;
 }
 .category_list:first-child {
     padding-top: 0;
@@ -2654,7 +2650,7 @@ button.send_btn:hover {
  ------------------------------*/
 
 .carousel-style-about.owl-theme .owl-controls .owl-buttons div {
-    background: #FF5E00;
+    background: #f7a400;
     border: 1px solid transparent;
     border-radius: 50%;
     color: #fff;
@@ -2722,7 +2718,7 @@ button.send_btn:hover {
  ------------------------------*/
 
 .home_2 .cursole-style-blog.owl-theme .owl-controls .owl-buttons div {
-    background: #FF5E00;
+    background: #f7a400;
 }
 /*------------------------------
  * CURSOLE STYLE BLOG HOME-3
@@ -2736,7 +2732,7 @@ button.send_btn:hover {
  ------------------------------*/
 
 .home_2 .course_cursole_style.owl-theme .owl-controls .owl-buttons div {
-    background: #FF5E00;
+    background: #f7a400;
 }
 /*------------------------------
  * CURSOLE STYLE COURSE HOME-3
@@ -2780,7 +2776,7 @@ button.send_btn:hover {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
 .home_2 .course_cursole_style.owl-theme .owl-controls .owl-buttons div {
-    background: #FF5E00 none repeat scroll 0 0;
+    background: #f7a400 none repeat scroll 0 0;
     border: 1px solid transparent;
 }
 .home_3 .course_cursole_style.owl-theme .owl-controls .owl-buttons div {
@@ -2822,7 +2818,7 @@ button.send_btn:hover {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
 .home_2 .team_cursole_style.owl-theme .owl-controls .owl-buttons div {
-    background: #FF5E00 none repeat scroll 0 0;
+    background: #f7a400 none repeat scroll 0 0;
     border: 1px solid transparent;
 }
 .home_3 .team_cursole_style.owl-theme .owl-controls .owl-buttons div {
@@ -2877,15 +2873,15 @@ button.send_btn:hover {
  ---------------------------------*/
 
 .home_2 .curosel-style.owl-theme .owl-controls .owl-buttons div {
-    color: #FF5E00;
-    border: 1px solid #FF5E00;
+    color: #f7a400;
+    border: 1px solid #f7a400;
 }
 .home_2 .curosel-style.owl-theme .owl-controls .owl-buttons .owl-next:hover {
-    background: #FF5E00;
+    background: #f7a400;
     color: #fff;
 }
 .home_2 .curosel-style.owl-theme .owl-controls .owl-buttons .owl-prev:hover {
-    background: #FF5E00;
+    background: #f7a400;
     color: #fff
 }
 /*---------------------------------
@@ -3145,7 +3141,7 @@ blockquote {
     font-family: FontAwesome;
     /*--adjust as necessary--*/
     
-    color: #878787;
+    color: #f7a400;
     font-size: 13px;
 }
 /*--------------------
@@ -3302,15 +3298,16 @@ blockquote {
  ---------------------*/
 
 #scrollUp {
-    background: #ff5e00 none repeat scroll 0 0;
+    background: #f7a400 none repeat scroll 0 0;
     bottom: 30px;
     color: #fff;
     font-size: 30px;
     height: 40px;
-    line-height: 40px;
+    line-height: 35px;
     right: 30px;
     text-align: center;
     width: 40px;
+    border-radius: 50px;
 }
 #scrollUp i {
     color: #fff;
@@ -3481,19 +3478,19 @@ transform:translateY(-50%);
 	margin-top: 0px;
 }
 .home_2 .app-title > h2 {
-    background: #FF5E00;
+    background: #f7a400;
 }
 .home_2 .app-field span {
-    color: #FF5E00;
+    color: #f7a400;
 }
 
 .home_2 .app-btn > button {
-    border: 1px solid #FF5E00;
-    color: #FF5E00;
+    border: 1px solid #f7a400;
+    color: #f7a400;
 }
 .home_2 .app-btn > button:hover {
-    background: #FF5E00;
-    border-color: #FF5E00;
+    background: #f7a400;
+    border-color: #f7a400;
     color: #fff;
 }
 .fluid-pd0 {
@@ -3522,7 +3519,7 @@ transform:translateY(-50%);
     background: #f7a500b9 none repeat scroll 0 0;
 }
 .home_2 .mean-container .mean-bar {
-    background: #FF5E00 none repeat scroll 0 0;
+    background: #f7a400 none repeat scroll 0 0;
 }
 .home_3 .mean-container .mean-bar {
     background: #1a1b4b none repeat scroll 0 0;
