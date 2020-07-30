@@ -585,7 +585,7 @@ a.actice-button:hover {
  ------------------------*/
 
 .home_3.slider_area {
-    background-image: url("img/slider/7.jpg");
+    background-image: url("img/slider/home.png");
 }
 .home_3 .slider_content h2 span {
     color:#f7a400;
@@ -1220,7 +1220,7 @@ margin-top:20px;
  -----------------*/
 
 .counter-area {
-    background: rgba(0, 0, 0, 0) url("img/slider/4.jpg") repeat scroll 0 0 / cover;
+    background: rgba(0, 0, 0, 0) url("img/slider/before teachers.png") repeat scroll 0 0 / cover;
     padding: 100px 0 83px;
     position: relative;
     width: 100%;
@@ -1474,7 +1474,7 @@ margin-top:20px;
 .video-area {
     background-attachment: fixed;
     background-color: #fff;
-    background-image: url("img/video/2.jpg");
+    background-image: url("img/video/after tutors.png");
     background-position: center top;
     background-repeat: no-repeat;
     padding: 100px 0 97px;
